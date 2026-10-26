@@ -1,0 +1,1 @@
+var e=`/assets/products-iP_2t174.jpg`;export{e as t};
